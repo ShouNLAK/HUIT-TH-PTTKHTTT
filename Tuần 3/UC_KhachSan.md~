@@ -1388,7 +1388,7 @@
 			ShowCompartmentStereotypes 	TRUE
 			IncludeAttribute 	TRUE
 			IncludeOperation 	TRUE
-			location   	(624, 1216)
+			location   	(576, 816)
 			font       	(object Font
 			    size       	10
 			    face       	"Arial"
@@ -1400,7 +1400,7 @@
 			    default_color 	TRUE)
 			label      	(object ItemLabel
 			    Parent_View 	@60
-			    location   	(624, 1376)
+			    location   	(576, 976)
 			    anchor_loc 	1
 			    nlines     	2
 			    max_width  	554
@@ -1437,34 +1437,34 @@
 			quidu      	"5834FFBA016A"
 			height     	118)
 		    (object AssociationViewNew "$UNNAMED$36" @62
-			location   	(656, 1169)
+			location   	(685, 956)
 			stereotype 	TRUE
 			line_color 	3342489
 			quidu      	"5834FFC201CA"
 			roleview_list 	(list RoleViews
 			    (object RoleView "$UNNAMED$37" @63
 				Parent_View 	@62
-				location   	(-1840, 497)
+				location   	(-1811, 284)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"5834FFC20315"
 				client     	@62
 				supplier   	@61
 				vertices   	(list Points
-				    (656, 1169)
-				    (633, 1203))
+				    (685, 956)
+				    (706, 982))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$38" @64
 				Parent_View 	@62
-				location   	(-1840, 497)
+				location   	(-1811, 284)
 				stereotype 	TRUE
 				line_color 	3342489
 				quidu      	"5834FFC20317"
 				client     	@62
 				supplier   	@60
 				vertices   	(list Points
-				    (656, 1169)
-				    (680, 1136))
+				    (685, 956)
+				    (665, 930))
 				line_style 	0)))
 		    (object ClassView "Class" "Use Case View::Adminstrator" @65
 			ShowCompartmentStereotypes 	TRUE
